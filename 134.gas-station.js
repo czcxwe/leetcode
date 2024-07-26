@@ -1,5 +1,7 @@
 /*
  * @lc app=leetcode id=134 lang=javascript
+
+ 菜就多练
  *
  * [134] Gas Station
  */
